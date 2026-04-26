@@ -31,6 +31,9 @@ Thumbs.db
 portfolio.json
 *.csv
 
+# scratch / quick-check files (run manually, never committed)
+_*.py
+
 # Secrets
 .env
 .env.*
